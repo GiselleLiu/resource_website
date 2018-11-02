@@ -1,3 +1,5 @@
 vim命令：https://www.cnblogs.com/yangjig/p/6014198.html
 vim中文手册： http://vimcdoc.sourceforge.net/doc/help.html
 关于安装插件，你需要理解的是：其实是把vim原有的操作整合成一个工具，以一种更简单的方式来调用，而实际上使用vim也是可以做到的
+
+1 多行注释：https://blog.csdn.net/xiajun07061225/article/details/8488210
